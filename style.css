@@ -100,6 +100,24 @@ nav ul li a:hover {
     margin: 0 auto;
 }
 
+/* Shensuan Product Page Styles */
+.product-section {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.image-gallery {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.image-gallery img {
+    max-width: 45%;
+    height: auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
 /* Footer */
 footer {
     text-align: center;
